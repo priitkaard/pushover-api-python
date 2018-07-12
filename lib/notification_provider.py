@@ -1,5 +1,5 @@
 """Pushover API Notification provider."""
-import config
+from config import config
 import requests
 
 

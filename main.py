@@ -1,4 +1,4 @@
-from notification_provider import NotificationProvider
+from lib.notification_provider import NotificationProvider
 
 if __name__ == '__main__':
 	np = NotificationProvider()
